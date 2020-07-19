@@ -1,4 +1,4 @@
-# Immigration Study Case
+# Immigration Case Study
 ### Data Engineering Capstone Project
 
 #### Project Summary
